@@ -27,16 +27,12 @@ Contributions are welcome! If you wish to contribute, follow these steps:
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a pull request.
 
-## Deployed Project
-- [link to deployed Project ](https://sosmogendi.github.io/Portfolio/)
-
 ## Licensing
-This is a free project under development.
-
+This project has not been licensed.
 ## Screenshots
-![Screenshot 1](Landing_page_section.JPG)
-![Screenshot 2](Aboutme_section.JPG)
-![Screenshot 2](Portfolio&contact_sections.JPG)
+![Landing page section](Landing_page_section.JPG)
+![About me section](Aboutme_section.JPG)
+![Portfolio and Contact section](Portfolio&contact_sections.JPG)
 
 ## Resources
 - [What Your Code Repository Says About You](https://linktoarticle.com)
