@@ -35,5 +35,5 @@ This project has not been licensed.
 ![Portfolio and Contact section](Portfolio&contact_sections.JPG)
 
 ## Resources
-- [What Your Code Repository Says About You](https://linktoarticle.com)
-- [Awesome List of READMEs](https://linktoawesomelist.com)
+- [The Art of Readme](https://github.com/noffle/art-of-readme) - A guide that explains the importance of good READMEs and how to write them effectively.
+- [Markdown Guide](https://www.markdownguide.org/) - A comprehensive guide to using Markdown for formatting text in GitHub READMEs.
